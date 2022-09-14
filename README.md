@@ -1,3 +1,4 @@
 # JavaScript Scoreboard
-https://soccer-scoreboard.netlify.app/
+### [Live Link](https://soccer-scoreboard.netlify.app/)
+
 ![My Image](Screenshot_2.png)
